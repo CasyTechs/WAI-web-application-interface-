@@ -1,0 +1,25 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, Sans-serif;
+    color: #474747;
+}
+
+#login_1{
+    margin-bottom: 80px;
+}
+
+#login_2{
+    
+  
+}
+
+
+h1{
+    margin-bottom: 50px;
+    font-weight: 100;
+   
+}
